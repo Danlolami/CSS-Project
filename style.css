@@ -1,0 +1,28 @@
+box {
+    display: block;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+    font-size: 16px;
+    margin: 8px;
+}
+#First section {
+    background-color: green;
+    font-size: 14px;
+
+}
+#Second section {
+    background-color: red;
+    font-size: 18px;
+
+}
+#Third section {
+    background-color: blue;
+    font-size: 18px;
+    
+}
